@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ar-x-dcv:home|Door43 (ar-x-dcv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ar-x-dcv|d43-ar-x-dcv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ar-x-dcv/archive/master.zip|d43-ar-x-dcv.zip]]
+
+**Recent Changes**
+{{changes>ns = ar-x-dcv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ar-x-dcv|Ethnologue data]]
+
