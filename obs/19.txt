@@ -1,112 +1,118 @@
 ====== 19. The Prophets ======
 
+**19. الأنبياء**
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-01.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-01.jpg?direct&}}
 
 Throughout the history of the Israelites, God sent them prophets. The prophets heard messages from God and then told the people God's messages.
 
+طوال تاريخ إسرائيل ، أرسل الله لهم الأنبياء. واستمعت الأنبياء رسائل من الله ثم قال الشعب الرسائل الله.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-02.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-02.jpg?direct&}}
 
 Elijah was a prophet when Ahab was king over the kingdom of Israel. Ahab was an evil man who encouraged people to worship a false god named Baal. Elijah said to Ahab, "There will be no rain or dew in the kingdom of Israel until I say so." This made Ahab very angry.
 
+كان إيليا النبي عندما كان أهاب ملكا على إسرائيل. كان أهاب رجل شرير الذي شجع الناس إلى عبادة إله مزيف يدعى بعل . قال إيليا لأخآب: "لن يكون هناك أي أمطار أو الندى في إسرائيل حتى أنا أقول ذلك . " وهذا جعل أهاب غاضب جدا .
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-03.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-03.jpg?direct&}}
 
 God told Elijah to go to a stream in the wilderness to hide from Ahab who wanted to kill him. Every morning and every evening, birds would bring him bread and meat. Ahab and his army looked for Elijah, but they could not find him. The drought was so severe that the stream eventually dried up.
 
+قال الله إيليا لإخفاء في البرية بالقرب من تيار . كل صباح و مساء كل يوم ، فإن الطيور تجلب له الخبز واللحوم. أهاب وجيشه بدا ل إيليا ، لكنهم لم يستطيعوا العثور عليه . وكان الجفاف الشديد بحيث تيار جفت في نهاية المطاف .
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-04.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-04.jpg?direct&}}
 
 So Elijah went to a neighboring country. A widow and her son in that country had almost run out of food because of the famine. But they took care of Elijah, and God provided for them so that their flour jar and their bottle of oil never became empty. They had food through the whole famine. Elijah stayed there for several years.
 
+حتى ذهب إيليا إلى بلد مجاور . وكان أرملة وابنها تشغيل تقريبا من الغذاء بسبب المجاعة . لكنهم يعتنون إيليا ، وقدمت الله لهم بحيث جرة الدقيق و زجاجة من زيت أبدا أصبح فارغا. كان لديهم الغذائي من خلال المجاعة كلها. إيليا بقي هناك فترة طويلة.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?direct&}}
 
 After three and a half years, God told Elijah to return to the kingdom of Israel and speak with Ahab because he was going to send rain again. When Ahab saw Elijah he said, "There you are, you troublemaker!" Elijah replied to him, "You are the troublemaker! You have abandoned Yahweh, the true God, and worshiped Baal. Bring all the people of the kingdom of Israel to Mount Carmel."
 
+بعد ثلاث سنوات ونصف، قال الله إيليا في العودة إلى إسرائيل والتحدث مع آخاب لأنه كان بصدد ارسال المطر مرة أخرى. عندما رأى أخآب إيليا قال: " كنت هناك ، وكنت مشاغبا ! " قال إيليا : "أنت مشاكسا ! لقد تخلى الرب الإله الحقيقي ، و يعبد البعل . جمع كل من إسرائيل إلى جبل الكرمل " .
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-06.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-06.jpg?direct&}}
 
 All the people of the kingdom of Israel, including the 450 prophets of Baal, came to Mount Carmel. Elijah said to the people, "How long will you keep changing your mind? If Yahweh is God, serve him! If Baal is God, serve him!"
 
+<code>كل من إسرائيل ، بما في ذلك 450 أنبياء البعل ، وجاء الى جبل الكرمل. وقال إيليا للشعب ، " متى سوف تبقى تغير وجهة نظرك ؟ إذا الرب هو الله ، وخدمة له! كان البعل هو الله ، وخدمة له! "
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-07.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-07.jpg?direct&}}
 
 Then Elijah said to the prophets of Baal, "Kill a bull and prepare it as a sacrifice, but do not light the fire. I will do the same. The God who answers with fire is the real God." So the priests of Baal prepared a sacrifice but did not light the fire.
 
+ثم قال إيليا لأنبياء البعل ، " اقتل الثور وإعداد التضحية ، ولكن لا تضيء النار. وسوف تفعل الشيء نفسه . الإله الذي يجيب بنار هو الإله الحقيقي. "وهكذا أعدت كهنة البعل تضحية ولكن لم ضوء النار .<font inherit/inherit;;inherit;;inherit>.</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?direct&}}
 
 Then the prophets of Baal prayed to Baal, "Hear us, Baal!" All day long they prayed and shouted and even cut themselves with knives, but there was no answer.
 
+ثم أنبياء بعل صلى إلى بعل ، "اسمع منا يا بعل ! " كل يوم طويل كانوا يصلون وصاح وحتى تقطعوا بالسكاكين ، ولكن لم بعل ولا تجب .
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-09.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-09.jpg?direct&}}
 
 At the end of the day, Elijah prepared a sacrifice to God. Then he told the people to pour twelve huge pots of water on top of the sacrifice until the meat, the wood, and even the ground around the altar were completely wet.
 
+<code>في نهاية اليوم ، أعد إيليا ذبيحة لله . ثم قال انه سكب اثني عشر أواني ضخمة من المياه على رأس الذبيحة حتى اللحوم ، والخشب ، و كانت حتى الأرض حول المذبح الرطب تماما.
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg?direct&}}
 
 Then Elijah prayed, "Yahweh, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your servant. Answer me so that these people will know that you are the true God."
 
+ثم صلى إيليا : "يا رب ، إله إبراهيم وإسحاق و يعقوب ، وتبين لنا اليوم أنك إله إسرائيل و التي أنا عبدك . يجيبني ذلك أن هؤلاء الناس سوف تعرف أنك الإله الحقيقي " .
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-11.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-11.jpg?direct&}}
 
 Immediately, fire fell from the sky and burned up the meat, the wood, the rocks, the dirt, and even the water that was around the altar. When the people saw this, they fell on the ground and said, "Yahweh is God! Yahweh is God!"
 
+على الفور ، انخفض النار من السماء و أحرقت حتى اللحوم ، و الخشب، و الصخور ، وحتى الأرض الرطبة حول المذبح . عندما رأى الشعب ذلك، سقطوا على الأرض ، وقال: " الرب هو الله ! الرب هو الله ! "
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-12.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-12.jpg?direct&}}
 
 Then Elijah said, "Do not let any of the prophets of Baal escape!" So the people captured the prophets of Baal and took them away from there and killed them.
 
+ثم قال إيليا ، "لا تدع أي من أنبياء البعل الهروب! " وهكذا استولت على الناس أنبياء بعل . ثم أخذ إيليا بها بعيدا و قتلوهم .
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?direct&}}
 
 Then Elijah said to King Ahab, "Return immediately to the city, because the rain is coming." Soon the sky grew black, and a heavy rain began. Yahweh had ended the drought and proved that he is the true God.
 
+ثم قال إيليا ل أخاب الملك ، "العودة فورا إلى المدينة، للمطر قادم. " سرعان ما نمت السماء السوداء ، و جاء عاصفة المطر كبيرة . الله قد أنهى الجفاف و أثبت أنه هو الإله الحقيقي .
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-14.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-14.jpg?direct&}}
 
 After the time of Elijah, God chose a man named Elisha to be his prophet. God did many miracles through Elisha. One of the miracles happened to Naaman, an enemy commander, who had a horrible skin disease. He had heard of Elisha so he went and asked Elisha to heal him. Elisha told Naaman to dip himself seven times in the Jordan River.
 
+بعد إيليا ، واختار الله اليسع أن يكون رسول الله. فعل الله معجزات كثيرة من خلال إليشا . حدث احدة من المعجزات ل نعمان ، أحد قادة العدو، و الذين لديهم مرض جلدي الرهيبة. وكان قد سمع من إليشا فراح وطلب أليشع أن يشفيه . وقال اليسع عليه الى الانخفاض نفسه سبع مرات في نهر الأردن.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-15.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-15.jpg?direct&}}
 
 At first Naaman was angry and would not do it because it seemed foolish. But later he changed his mind and dipped himself seven times in the Jordan River. When he came up the last time, his skin was completely healed! God had healed him.
 
+في البداية كان نعمان غاضبا و لن تفعل ذلك لأنه يبدو أحمق. ولكن في وقت لاحق انه غير رأيه و تراجع نفسه سبع مرات في نهر الأردن. عندما جاء لل مرة الأخيرة، جلده شفي تماما! الله قد تبرأ منه .
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-16.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-16.jpg?direct&}}
 
+God sent many other prophets. They all told the people to stop worshiping idols and to start showing justice and mercy to others. The prophets warned the people that if they did not stop doing evil and start obeying God, then God would judge them as guilty, and he would punish them
 
-God sent many other prophets. They all told the people to stop worshiping idols and to start showing justice and mercy to others. The prophets warned the people that if they did not stop doing evil and start obeying God, then God would judge them as guilty, and he would punish them.
+كان هناك العديد من الأنبياء الآخرين . أنهم جميعا قال الشعب لوقف عبادة الأوثان و للبدء في عرض العدالة والرحمة للآخرين. حذرت الأنبياء الشعب أنه إذا لم تدر من خطاياهم و البدء في عيش حياة مطيعة ، ثم أن حكم الله يأتي ، و انه معاقبتهم .
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-17.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-17.jpg?direct&}}
 
 Most of the time, the people did not obey God. They often mistreated the prophets and sometimes even killed them. Once, the prophet Jeremiah was put into a dry well and left there to die. He sank down into the mud that was in the bottom of the well, but then the king had mercy on him and ordered his servants to pull Jeremiah out of the well before he died.
 
+في معظم الوقت ، فإن الناس لا يستمعون إلى الله. وغالبا ما يتعرضون لسوء المعاملة الأنبياء و حتى أحيانا قتلهم . مرة واحدة، وضعت إرميا النبي في بئر جافة وترك هناك ل يموت. انه غرق في الوحل الذي كان في قاع البئر ، ولكن بعد ذلك كان للملك رحمه و أخرجوه قبل وفاته .
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-18.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-18.jpg?direct&}}
 
 The prophets continued to speak for God even though the people hated them. They warned people that God would destroy them if they did not repent. They also reminded people of the promise that God's Messiah would come.
 
+<font inherit/inherit;;inherit;;inherit>واصلت الأنبياء لتتحدث عن الله على الرغم من أن الناس يكره لهم . وحذروا الناس بأن الله سيدمر لهم إذا لم يتوبوا . وذكروا أيضا الناس من الوعد الذي المسيح الله سيأتي</font>
 
 //A Bible story from: 1 Kings 16-18; 2 Kings 5; Jeremiah 38//
+
+//
+قصة الكتاب المقدس من : 1 ملوك 16-18 . 2 ملوك 5؛ إرميا 38 //
