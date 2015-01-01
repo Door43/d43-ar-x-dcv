@@ -1,90 +1,98 @@
 ====== 45. Philip and the Ethiopian Official ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg}}
+<code>**45. فيليب الرسمية الاثيوبي**
+</code>
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?direct&}}
 
 One of the leaders in the early Church was a man named Stephen. He had a good reputation and was full of the Holy Spirit and of wisdom. Stephen did many miracles and reasoned persuasively that people should believe in Jesus.
 
+<code>وكان ستيفن رائدة في الكنيسة الأولى . وكان لديه سمعة جيدة و كان ممتلئا من الروح القدس و الحكمة. فعل ستيفن العديد من المعجزات و جادل بقوة أن الناس يجب أن يؤمن بيسوع .
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?direct&}}
 
 One day, when Stephen was teaching about Jesus, some Jews who did not believe in Jesus began to argue with Stephen. They became very angry and lied about Stephen to the religious leaders. They said, "We heard him speak evil things about Moses and God!" So the religious leaders arrested Stephen and brought him to the high priest and the other leaders of the Jews, where more false witnesses lied about Stephen.
 
+<code>يوم واحد ، ستيفن كان في خصومة مع بعض اليهود غير المؤمنين عن يسوع. أصبحوا غاضب جدا و كذب بشأن ستيفن ، وقال: " نحن سمعناه يتكلم أشياء سيئة عن موسى وعلى الله ! " لذا ألقوا القبض على ستيفن و أحضره أمام الكاهن وقادة عال من اليهود.
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?direct&}}
 
 The high priest asked Stephen, "Are these things true?" Stephen replied by reminding them of many of the great things God had done from the time of Abraham to the time of Jesus, and how God's people continually disobeyed him. Then he said, "You stubborn and rebellious people always reject the Holy Spirit, just as your ancestors always rejected God and killed his prophets. But you did something worse than they did! You killed the Messiah!"
 
+<code>سأل رئيس الكهنة ستيفن ، " هل هذه الأمور صحيح؟ " ستيفن ذكرهم من جميع الأشياء العظيمة الله قد فعلت من عهد إبراهيم إلى يسوع. ثم أجاب : "أنت شخص عنيد و متمرد دائما نرفض الروح القدس ، تماما كما أسلافك دائما رفض الله وقتلوا الأنبياء له . حتى لقد قتل المسيح الذي أرسله الله ! "
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?direct&}}
 
 When the religious leaders heard this, they were so angry that they covered their ears and yelled loudly. They dragged Stephen out of the city and threw stones at him in order to kill him.
 
+<code>عندما سمع الشعب هذا غطوا آذانهم و صاح بصوت عال . ألقوا ستيفن خارج المدينة و رجموه حتى الموت.
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?direct&}}
 
 As Stephen was dying, he cried out, "Jesus, receive my spirit." Then he fell to his knees and cried out again, "Master, do not count this sin against them." Then he died.
 
+<code>كما ستيفن كان يحتضر ، صرخ ، " يسوع اقبل روحي. " ثم جثا على ركبتيه وصرخ مرة أخرى، "يا سيد، لا تعول هذه الخطيئة ضدهم ". ثم مات .
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?direct&}}
 
 A young man named Saul agreed with the people who killed Stephen and guarded their robes while they threw stones at him. That day, many people in Jerusalem started persecuting the followers of Jesus, so the believers fled to other places. But in spite of this, they preached about Jesus everywhere they went.
 
+<code>رجل يدعى شاول وافق التنفيذ ستيفن و حراسة ممتلكاتهم من أولئك الذين يرجمون استفانوس . في ذلك اليوم بدأ كثير من الناس اضطهاد المسيحيين، وكانوا متناثرة من خلال تلك المنطقة. ولكن في كل مكان ذهبوا هم بشر عن يسوع.
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-07.jpg?direct&}}
 
 A disciple of Jesus' named Philip was one of the believers who fled from Jerusalem during the persecution. He went to Samaria where he preached about Jesus and many people were saved. Then one day, an angel from God told Philip to go to a certain road in the desert. As he walked along the road, Philip saw an important official from Ethiopia riding in his chariot. The Holy Spirit told Philip to go and talk to this man.
 
+<code>فيليب، واحد من تلاميذ يسوع ، وذهب إلى السامرة حيث بشر عن يسوع و تم حفظها الكثير. ثم يوم واحد ملاك من الله وقال فيليب للذهاب إلى الطريق إلى غزة في الصحراء. بينما كان يسير على طول الطريق، و رأى فيليب مسؤول مهم من إثيوبيا ركوب في مركبته . وقال الروح القدس فيليب لترتفع والتحدث مع هذا الرجل .
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?direct&}}
 
 When Philip approached the chariot, he heard the Ethiopian reading from what the prophet Isaiah wrote. The man read, "They led him like a lamb to be killed, and as a lamb is silent, he did not say a word. They treated him unfairly and did not respect him. They took his life away from him."
 
+<code>عندما جاء فيليب بالقرب من عربة ، سمع الرجل يقرأ من إشعياء النبي ، " وقال انه ادى مثل الحمل للقتل، ولم يقل كلمة واحدة. كان يعالج ظلما و دون احترام . حياته اتخذ بعيدا عنه " .
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?direct&}}
 
 Philip asked the Ethiopian, "Do you understand what you are reading?" The Ethiopian replied, "No. I cannot understand it unless someone explains it to me. Please come and sit next to me. Was Isaiah writing about himself or someone else?"
 
+<code>فيليب طلبت من إثيوبيا ، " هل تفهم ما أنت تقرأ ؟ " وقال: "لا. لا أستطيع أن أفهم ذلك ما لم يشرح شخص لي. يرجى يأتي و يجلس بجواري . و إشعياء يتحدث عن نفسه أو أي شخص آخر؟ "
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg?direct&}}
 
 Philip explained to the Ethiopian man that Isaiah was writing about Jesus. Philip also used other scriptures to tell him the good news about Jesus.
 
+<code>فيليب أظهر له أن إشعياء كان يتحدث عن يسوع . كما تستخدم فيليب العديد من الكتب الأخرى أن أقول له البشرى السارة ليسوع .
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?direct&}}
 
 As Philip and the Ethiopian traveled, they came to some water. The Ethiopian said, "Look! There is some water! May I be baptized?" And he told the driver to stop the chariot.
 
+<code>وقال الاثيوبية كما مروا بعض الماء ، "انظروا ! هناك بعض الماء ! اسمحوا لي أن عمد ؟ "وقال انه امر عربة لوقف .
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg?direct&}}
 
 So they went down into the water, and Philip baptized the Ethiopian. After they came up out of the water, the Holy Spirit suddenly carried Philip away to another place where he continued telling people about Jesus.
 
+<code>نزلا في الماء، وفيليب عمد له . بعد فيليب عمد الاثيوبية ، قام الروح القدس فيليب بعيدا إلى مكان آخر حيث واصل إخبار الناس عن يسوع.
+</code>
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?direct&}}
 
 The Ethiopian continued traveling toward his home, happy that he knew Jesus.
 
+<code>ذهب الاثيوبية في طريقه ، سعداء لمعرفة يسوع .
+</code>
+
 //A Bible story from: Acts 6:8-8:5; 8:26-40//
 
-
+قصة الكتاب المقدس من : كتاب أعمال الرسل 8 : 26-40
