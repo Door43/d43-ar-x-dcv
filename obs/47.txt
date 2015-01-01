@@ -1,88 +1,107 @@
 ====== 47. Paul and Silas in Philippi ======
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg}}
-
+<code>**47. بولس وسيلا في فيلبي**
+</code>
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?direct&}}
 
 As Saul traveled throughout the Roman Empire, he began to use his Roman name, "Paul." One day, Paul and his friend Silas went to the town of Philippi to proclaim the good news about Jesus. They went to a place by the river outside the city where people gathered to pray. There they met a woman named Lydia who was a merchant. She loved and worshiped God.
 
+<code>بعد بضع سنوات ، ذهب بول وصديقه سيلاس إلى مدينة فيلبي، الذي أعلنت فيه الأخبار السارة عن يسوع. التقيا امرأة تدعى ليديا الذي باع القماش الأرجواني . أحبت و يعبد الله.
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?direct&}}
 
 God opened Lydia's heart to believe the message about Jesus, and she and her family were baptized. She invited Paul and Silas to stay at her house, so they stayed with her and her family.
 
+<code>فتح الله قلب ليديا لفهم رسالة يسوع، و اعتمدوا هي وعائلتها . ودعت بولس وسيلا للبقاء في منزلها ، لذلك فعلوا .
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?direct&}}
 
 Paul and Silas often met with people at the place of prayer. Every day as they walked there, a slave girl possessed by a demon followed them. By means of this demon she predicted the future for people, so she made a lot of money for her masters as a fortuneteller.
 
+<code>بولس وسيلا وغالبا ما يذهب للصلاة ، بينما كانوا في فيلبي . كل يوم أثناء سيرهم إلى مكان الصلاة ، وهي فتاة الرقيق التي تمتلكها شيطان يتبع لهم . وكانت عراف ، و قالت انها قدمت الكثير من المال ل مواليها .
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?direct&}}
 
 The slave girl kept yelling as they walked, "These men are servants of the Most High God. They are telling you the way to be saved!" She did this so often that Paul became annoyed.
 
+<code>الفتاة الرقيق أبقت الصراخ ، " هؤلاء الناس هم عبيد الله العلي . إنهم يقولون لك الطريق ليتم حفظها ! " وقد فعلت هذا في كثير من الأحيان بحيث أصبح بول ازعاج .
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg?direct&}}
 
 Finally one day when the slave girl started yelling, Paul turned to her and said to the demon that was in her, "In the name of Jesus, come out of her." Right away the demon left her.
 
+<code>الفتاة الرقيق أبقت الصراخ ، " هؤلاء الناس هم عبيد الله العلي . إنهم يقولون لك الطريق ليتم حفظها ! " وقد فعلت هذا في كثير من الأحيان بحيث أصبح بول ازعاج .
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?direct&}}
 
 The men who owned the slave girl became very angry! They realized that without the demon, the slave girl could not tell people the future. This meant that people would no longer pay her owners money so that she would tell them what would happen to them.
 
+<code>الرجال الذين يمتلكون الفتاة الرقيق أصبح غاضبا جدا عندما أدركوا الفتاة الرقيق لم يعد قادرا على كسب المال بالنسبة لهم.
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?direct&}}
 
 So the owners of the slave girl took Paul and Silas to the Roman authorities, who beat them and threw them into jail.
 
+<code>لذلك كان أصحاب فتاة الرقيق بولس وسيلا اعتقال والضرب و ألقيت في السجن.
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-08.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-08.jpg?direct&}}
 
 They put Paul and Silas in the most secure part of the prison and even locked up their feet. Yet in the middle of the night, they were singing songs of praise to God.
 
+<code>وضعت بولس وسيلا في الجزء الأكثر أمانا من السجن بأقدامهم حبسهم. في منتصف الليل ، وكانوا يغنون أغاني من الثناء على الله .
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?direct&}}
 
 Suddenly, there was a violent earthquake! All the prison doors flew open, and the chains of all the prisoners fell off.
 
+<code>فجأة اهتزت الأرض و طار أبواب السجن مفتوحة. سقطت كل السلاسل الأسرى قبالة.
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?direct&}}
 
 The jailer woke up, and when he saw that the prison doors were open, he was terrified! He thought all the prisoners had escaped, so he planned to kill himself. (He knew the Roman authorities would kill him if he allowed the prisoners to escape.) But Paul saw him and yelled, "Stop! Do not hurt yourself. We are all here."
 
+<code>وعندما رأى السجان أن الأبواب كانت مفتوحة ، وقال انه خطط لقتل نفسه ، والتفكير بأن جميع المسجونين قد هربوا . (وكان يعرف انه سيقتل على السماح للسجناء الفرار. ) رأى بول له و صاح ، "أوقفوا ! لا تؤذي نفسك. ونحن جميعا هنا. "
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?direct&}}
 
 The jailer trembled as he came to Paul and Silas and asked, "What must I do to be saved?" Paul answered, "Believe in Jesus, the Master, and you and your family will be saved." Then the jailer took Paul and Silas into his home and washed their wounds. Paul preached the good news about Jesus to everyone in his house.
 
+<code>كان السجان بالرعب ! فأخذ بولس وسيلا المنزل ، وقدم لهم بعض الطعام ، و غسل جراحهم . ثم قال : "ماذا يجب أن أفعل لكي أخلص؟ "
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?direct&}}
 
 The jailer and his whole family believed in Jesus and were baptized. Then the jailer gave Paul and Silas a meal and they rejoiced together.
 
+<code>اجاب بولس ، " نعتقد في يسوع ، وماجستير ، و سيتم حفظ لك ولعائلتك ". ثم عمد بول السجان و عائلته كلها ، و احتفلوا معا.
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?direct&}}
 
 The next day the leaders of the city released Paul and Silas from prison and asked them to leave Philippi. Paul and Silas visited Lydia and some other friends and then left the city. The good news about Jesus kept spreading, and the Church kept growing.
 
+<code>في اليوم التالي قادة المدينة سراح بولس وسيلا و طلب منهم ترك فيلبي . بولس وسيلا زار ليديا وبعض أصدقاء آخرين ثم غادروا المدينة . الأخبار الجيدة يسوع أبقى الانتشار، وأبقى الكنيسة المتنامية.
+</code>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?direct&}}
 
 Paul and other Christian leaders traveled to many cities, preaching and teaching people the good news about Jesus. They also wrote many letters to encourage and teach the believers in the churches. Some of these letters became books of the Bible.
 
+<code>بول و غيرهم من القادة المسيحيين سافر إلى العديد من المدن ، والوعظ و التدريس عن يسوع. كما كتب على العديد من الرسائل إلى الكنائس لتشجيع و تعليمهم عن العهد الله الجديد .
+</code>
 
 //A Bible story from: Acts 16:11-40//
+
+قصة الكتاب المقدس من :
+ﺍﻋﻤﺎﻝ ﺍﻟﺮﺳﻞ
+16: 11-40
