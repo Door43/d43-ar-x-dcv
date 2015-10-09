@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/ar-x-dcv|Ethnologue data]]
 
-
 **Resources**
 
   * [[ar-x-dcv:obs|Open Bible Stories (ar-x-dcv)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:ar-x-dcv:obs:status}}
